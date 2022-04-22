@@ -647,7 +647,7 @@ body {
 
 
 
-@media screen and (min-width:750.75px) and (max-width:1360px) {
+@media screen and (min-width:750.75px) and (max-width:1050px) {
     .item1 h2 {
         font-size: 1.5rem;
     }
